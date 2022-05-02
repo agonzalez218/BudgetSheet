@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Budget Sheet Application</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="edit_expense">Edit Expense</string>
+
+    <string-array name="categories">
+        <item>Clothes</item>
+        <item>Eating Out</item>
+        <item>Entertainment</item>
+        <item>Groceries</item>
+    </string-array>
+
+    <string name="app_subheader">Expenses</string>
+    <string name="app_title">Budget Sheet</string>
+    <string name="expense_description_edit_text">Expense Description</string>
+    <string name="expense_cost_edit_text">Expense Cost</string>
+    <string name="done_button_text">Done</string>
+    <string name="fab_content_description">fab</string>
+    <string name="remove_this_expense">Remove this expense</string>
+    <string name="edit_this_expense">Edit this expense</string>
+
+</resources>
